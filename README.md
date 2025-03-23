@@ -15,8 +15,12 @@ Cuz if the ">" is reflected without encoding, There's a possibility for XSS Inje
 Just need to install go, run:
 
 ```
-▶ brew install go
-▶ git clone https://github.com/SirBugs/Xssor.go.git
+- brew install go
+- git clone https://github.com/SirBugs/Xssor.go.git
+- go build -o xsser
+- mv xsser /usr/local/bin/
+- xsser file.txt
+
 ```
 
 or download from https://go.dev/dl/
