@@ -17,9 +17,9 @@ Just need to install go, run:
 ```
 - brew install go
 - git clone https://github.com/SirBugs/Xssor.go.git
-- go build -o xsser
-- mv xsser /usr/local/bin/
-- xsser file.txt
+- go build -o xss0r
+- mv xss0r /usr/local/bin/
+- xss0r file.txt
 
 ```
 
